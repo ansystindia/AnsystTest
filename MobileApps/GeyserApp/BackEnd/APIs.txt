@@ -1,6 +1,6 @@
 This is the APIs file
 
-Added line 2 to api file
+## Added line 2 to api file
 
 
 
@@ -8,8 +8,11 @@ Added line 2 to api file
 
 
 
-Adding more empty lines to API file
+## Adding more empty lines to API file
 Update 4 to APIs file
 Adding update 5 to APIs file
 
 Adding update 6 to the APIs file
+
+Adding update 7 to the API file. 
+Commenting out some previous lines. 
