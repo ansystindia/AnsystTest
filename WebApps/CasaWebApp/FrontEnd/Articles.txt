@@ -1,1 +1,2 @@
 This is the logout file
+Adding updates to articles file
